@@ -1,6 +1,6 @@
 # Road Defect Detection and Tracking
 
-A computer vision system for detecting and tracking road defects in video streams using YOLOv11 and ByteTrack. The system is trained on the RDD2022 dataset and can detect four types of road defects commonly found on Indian roads.
+A computer vision system for detecting and tracking road defects in video streams using YOLOv11, ByteTrack and Supervison library. The system is trained on the RDD2022 dataset and can detect four types of road defects commonly found on Indian roads.
 
 ## Features
 
