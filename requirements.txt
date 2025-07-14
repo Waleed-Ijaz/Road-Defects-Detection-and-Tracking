@@ -1,0 +1,6 @@
+ultralytics
+supervision>=0.16.0
+numpy
+opencv-python
+torch
+torchvision
