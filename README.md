@@ -1,6 +1,6 @@
 # Road Defect Detection and Tracking
 
-A computer vision system for detecting and tracking road defects in video streams using YOLOv8 and ByteTrack. The system is trained on the RDD2022 dataset and can detect four types of road defects commonly found on Indian roads.
+A computer vision system for detecting and tracking road defects in video streams using YOLOv11 and ByteTrack. The system is trained on the RDD2022 dataset and can detect four types of road defects commonly found on Indian roads.
 
 ## Features
 
@@ -16,14 +16,14 @@ A computer vision system for detecting and tracking road defects in video stream
 
 ## Model
 
-The system uses a YOLOv8 model trained on the RDD2022 (Road Damage Dataset 2022) dataset, specifically focusing on Indian road conditions. The model file `Road_defects_US_India.pt` should be placed in the project root directory.
+The system uses a YOLOv11 model trained on the RDD2022 (Road Damage Dataset 2022) dataset, specifically focusing on Indian road conditions. The model file `Road_defects_US_India.pt` should be placed in the project root directory.
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/road-defect-detection-tracking.git
-cd road-defect-detection-tracking
+git clone https://github.com/yourusername/Road-Defects-Detection-and-Tracking.git
+cd Road-Defects-Detection-and-Tracking
 ```
 
 2. Create a virtual environment (recommended):
@@ -101,7 +101,7 @@ The model was trained on the RDD2022 dataset focusing on Indian road conditions.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 ## Acknowledgments
 
@@ -117,13 +117,13 @@ If you use this project in your research, please cite:
 ```bibtex
 @misc{road-defect-detection-tracking,
   title={Road Defect Detection and Tracking},
-  author={Your Name},
-  year={2024},
+  author={Waleed Ijaz},
+  year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/yourusername/road-defect-detection-tracking}}
+  howpublished={\url{https://https://github.com/Waleed-Ijaz/Road-Defects-Detection-and-Tracking}}
 }
 ```
 
 ## Support
 
-For questions and support, please open an issue on GitHub or contact [your-email@example.com].
+For questions and support, please open an issue on GitHub.
